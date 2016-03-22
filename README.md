@@ -19,6 +19,9 @@ Make the project.
 `make`
 
 ##Invocation:
-`chmod a+x rm-machsop // if not built, make the file executable by all`
+
+if not built, make the file executable by all
+
+`chmod a+x rm-machsop`
 
 `./rm-machsop`
